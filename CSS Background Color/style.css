@@ -1,0 +1,22 @@
+body {
+  background-color: royalblue;
+}
+h2 {
+  background-color: limegreen;
+}
+div {
+  background-color: white;
+  height: 50px;
+}
+p {
+  background-color: red;
+}
+.div1 {
+  opacity: 0.8;
+}
+.div2 {
+  opacity: 0.5;
+}
+.div3 {
+  opacity: 0.2;
+}
