@@ -1,0 +1,58 @@
+div {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  margin: 200px;
+}
+
+/* css translate() */
+/* div {
+  transform: translate(100px, 50px);
+} */
+
+/* css rotate() */
+/* div {
+  transform: rotate(10deg);
+  transform: rotate(-10deg);
+} */
+
+/* css scale() */
+/* div {
+  transform: scale(2,3);
+  transform: scale(0.8, 0.5);
+} */
+
+/* css scaleX() */
+/* div {
+  transform: scaleX(2);
+  transform: scaleX(0.5);
+} */
+
+/* css scaleY() */
+/* div {
+  transform: scaleY(2);
+  transform: scaleY(0.5);
+} */
+
+/* css skewX() */
+/* div {
+  transform: skewX(20deg);
+  transform: skewX(-30deg);
+} */
+
+/* css skewY() */
+/* div {
+  transform: skewY(20deg);
+  transform: skewY(-20deg);
+} */
+
+/* css skew() */
+/* div {
+  transform: skew(-20deg, 10deg);
+} */
+
+/* css matrix() */
+/* div {
+  transform: matrix(1, -0.3, 0, 1, 0, 0);
+  transform: matrix(2, -0.3, 1, 1.5, 20, 10);
+} */
