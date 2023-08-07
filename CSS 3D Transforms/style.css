@@ -1,0 +1,39 @@
+div {
+  background-color: yellow;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+/* rotating */
+/* The rotateX() Method */
+
+/* #test {
+  transform: rotateX(180deg);
+} */
+
+/* The rotateY() Method */
+
+/* #test {
+  transform: rotateY(135deg);
+} */
+
+/* The rotateZ() Method */
+
+/* #test {
+  transform: rotateZ(150deg);
+} */
+
+/* translating */
+
+/* #test {
+  transform: translateX(200px);
+  transform: translate3d(200px, 100px, 0px);
+} */
+
+/* scaling */
+
+/* #test {
+  transform: scaleX(0.5);
+  transform: translate3d(200px,100px,0px) scaleX(1.5);
+} */
