@@ -1,0 +1,49 @@
+div {
+  background-color: red;
+  color: white;
+  width: 100px;
+  height: 100px;
+  transition: width 2s;
+/*   transition: width 2s, height 1s; */
+}
+
+div:hover {
+  width: 300px;
+/*   height: 200px; */
+}
+
+/* div {
+  transition-timing-function: linear;
+  transition-timing-function: ease-in;
+  transition-timing-function: ease-out;
+} */
+
+/* div {
+  transition-delay: 1s;
+} */
+
+/* transition + transformation */
+/* Div 2 Example */
+#div2 {
+  margin-top: 10px;
+  background-color: green;
+/*   transition: width 2s, height 2s, transform 2s; */
+}
+
+/* #div2:hover {
+  width: 200px;
+  height: 200px;
+  transform: rotate(180deg);
+} */
+
+/* Div 3 Example */
+#div3 {
+  margin-top: 10px;
+  background-color: blue;
+/*   transition: width 1s linear 1s, height 1s linear 2s; */
+}
+
+/* #div3:hover {
+  width: 500px;
+  height: 200px;
+} */
