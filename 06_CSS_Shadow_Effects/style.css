@@ -1,0 +1,39 @@
+p {
+  font-family: sans-serif;
+  font-size: 22px;
+}
+
+/* css text shadow */
+
+/* p {
+  text-shadow: 2px 2px;
+} */
+
+/* adding color */
+/* p {
+  text-shadow: 2px 2px red;
+} */
+
+/* adding blur effect */
+/* p {
+  text-shadow: 2px 2px 5px red;
+} */
+
+/* #e2 {
+  color: white;
+  text-shadow: 3px 3px 10px #000;
+} */
+
+/* #e3 {
+  text-shadow: 0px 0px 5px red;
+} */
+
+/* Multiple Shadows */
+/* #e4 {
+  text-shadow: 0px 0px 5px #ff0000, 0px 0px 5px #0000ff;
+} */
+
+#e5 {
+  color: white;
+  text-shadow: 0px 0px 5px black, 0px 0px 25px blue, 0px 0px 5px darkblue;
+}
